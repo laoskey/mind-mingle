@@ -75,17 +75,6 @@ MindMingle 使用Convex做后台存储，LiveBlocks作为白板协作通信。
 
 convex：convex配置文件，表结构、以及一些CRUD方法
 
-### 联系我：
-
-如果你有任何问题，欢迎给我留言或者发邮件到[teric0898@gmail.com](mailto:teric0898@gmail.com)
-
-
-
-### 在这里要特别感谢 Antonio 做出的巨大贡献
-
-
-
-### 最后：祝你玩得愉快！
 
 
 
